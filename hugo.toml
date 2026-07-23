@@ -1,4 +1,4 @@
-baseURL = 'https://OpinionatedDeer.Blog.github.io/'
+baseURL = 'https://opinionateddeer.github.io/Blog.github.io/'
 languageCode = 'en-us'
 title = 'OpinionatedDeer Blog'
 theme        = "hello-friend-ng"
