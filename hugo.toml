@@ -49,7 +49,7 @@ taxonomy = ["html","RSS"]
 
         [languages.en.params.logo]
         logoText = "Ignore this website"
-        logoHomeLink = "/"
+        logoHomeLink = ""
         # or
         #
         # path = "/img/your-example-logo.svg"
