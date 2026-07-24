@@ -15,17 +15,16 @@ tags:
 # Salutations, 
 I was just bored.
 
-Too straight to the point you say? 
+Too straight to the point, you say? 
 
-Yeah I agree But why bother with long winded paragraphs and justification, the truth is i was simply bored.
+Yeah, I agree But why bother with long-winded paragraphs and justifications, the truth is, i was simply bored.
 Not good enough of a reason?
 
-Who cares i am done listening on lectures to how to live my life.
-- A system for easy revision viewing and storing complete file instead 
+Who cares I am done listening to lectures to how to live my life.
 
-Living a life is good enough and i am living it now while i still can.
+Living a life is good enough and, I am living it now while I still can.
 
-Now as for why **blog-**It just seemed easier. Making a video to express myself is looks cool and i like them.
+Now as for why *blog* It just seemed easier. Making a video to express myself is looks cool and i like them.
 But this felt easier to do and as such i was simply inclined to do it and here it is.
 
 
@@ -48,9 +47,9 @@ Exactly
 ## My Setup  
 Who is this idiot with such terrible title ideas,
 
-*Why me ofcourse*.
+*Why me of course*.
 
-I planned to first use jekyll but after going through the features i remembered the sad state my protfolio website is in ~~please do not see it~~.
+I planned to first use jekyll but after going through the features i remembered the sad state my portfolio website is in ~~please do not see it~~.
 
 I thought of exporting Logseq again but i woke up in middle of the day terrified of that reality.
 
@@ -66,13 +65,13 @@ So Ofcourse i decided to use Hugo.
 
 ....
 
-You are probably wondering why there is no actual explaination? Who does this person think he is? 
+You are probably wondering why there is no actual explanation? Who does this person think he is? 
 
 Well
 
 I mean just read the 1st section.
 
-Alright that was a joke, no harm , no foul ~~I do not believe in this untill it is to my advantage~~.
+Alright that was a joke, no harm , no foul ~~I do not believe in this until it is to my advantage~~.
 
 It was about the fact that Hugo is supposed to be faster, expandable and it looked cooler and shiny.
 
@@ -97,7 +96,11 @@ Might fix the blog.
 
 Might not. 
 
-Maybe write some more, 
+Maybe write some more. 
 
 Maybe not.
+
+I am sorry for all the grammar and spelling mistakes.
+
+Definetly not.
 
